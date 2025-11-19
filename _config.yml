@@ -24,9 +24,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Prahlad Jasti"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Software Engineer interested in ML Infra, Autonomous Vehicles, and Climate Tech"
   location         : "Redwood City, CA, USA"
   employer         : "Atlassian"
   uri              : # URL
