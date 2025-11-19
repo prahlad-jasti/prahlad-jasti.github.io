@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "IMG_0779edited.jpg"
   name             : "Prahlad Jasti"
   pronouns         : # example: "she/her"  
   bio              : "Software Engineer interested in ML Infra, Autonomous Vehicles, and Climate Tech"
